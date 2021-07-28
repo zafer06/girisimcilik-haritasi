@@ -35,12 +35,14 @@ function svgturkiyeharitasi() {
         let modalLabel = document.getElementById('modalCityLabel');
         modalLabel.innerText = info.innerText;
 
-        let modalTitle = document.getElementById('modalTitle');
-        modalTitle.innerText = info.innerText + " Girişimcilik Merkezleri";
+        let modalBody = document.getElementById('modalBody');
+        modalBody.innerText = "Lütfen bekleyin veriler yükleniyor ...";
 
         let options = {
           keyboard: false
         }
+
+        getCityDetail(modalBody, modalLabel.innerText);
 
         var myModal = new bootstrap.Modal(document.getElementById('modalCity'), options)
         myModal.show();

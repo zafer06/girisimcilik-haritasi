@@ -1,0 +1,597 @@
+[
+  {
+    "sehir": "Adana",
+    "unvan": "Çukurova Teknokent",
+    "eposta": "",
+    "site": "https://cukurovateknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Afyon",
+    "unvan": "Zafer Teknopark",
+    "eposta": "tgb@zaferteknopark.com.tr",
+    "site": "https://zaferteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "Ankara Üniversitesi Teknokent",
+    "eposta": "info@ankarateknokent.com",
+    "site": "www.ankarateknokent.com",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "Bilkent Cyberpark",
+    "eposta": "info@cyberpark.com.tr",
+    "site": "http://www.cyberpark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "Gazi Teknopark",
+    "eposta": "info@gaziteknopark.com.tr",
+    "site": "https://www.gaziteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "Hacettepe Teknokent",
+    "eposta": "info@hacettepeteknokent.com.tr",
+    "site": "https://hacettepeteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "ODTÜ Teknokent",
+    "eposta": "info@odtuteknokent.com.tr",
+    "site": "http://odtuteknokent.com.tr/tr",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "OSTİM Teknopark",
+    "eposta": "info@ostimteknopark.com.tr",
+    "site": "http://www.ostimteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "Teknopark Ankara",
+    "eposta": "Info@teknoparkankara.com.tr",
+    "site": "http://teknoparkankara.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "ASO Teknopark",
+    "eposta": "info@asoteknopark.com.tr",
+    "site": "https://www.asoteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Ankara",
+    "unvan": "TeknoHAB",
+    "eposta": "teknohab@teknohab.com.tr",
+    "site": "https://teknohab.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Antalya",
+    "unvan": "Antalya Teknokent",
+    "eposta": "info@ateknokent.com",
+    "site": "https://www.antalyateknokent.com.tr/tr",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Antalya",
+    "unvan": "Antalya OSB Teknopark",
+    "eposta": "info@​aosbteknopark.com.tr",
+    "site": "http://www.antalyaosbteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Aydın",
+    "unvan": "ADÜ Teknokent",
+    "eposta": "aduarge@adu.edu.tr",
+    "site": "http://www.aduteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Balıkesir",
+    "unvan": "Balıkesir Teknokent",
+    "eposta": "iletisim@bauntek.com.tr",
+    "site": "https://www.bauntek.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Bolu",
+    "unvan": "Bolu Teknokent",
+    "eposta": "info@boluteknokent.com",
+    "site": "https://boluteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Burdur",
+    "unvan": "Makü Teknokent",
+    "eposta": "info@makuteknokent.com",
+    "site": "http://makuteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Bursa",
+    "unvan": "Ulutek Teknopark",
+    "eposta": "ulutek@ulutek.com.tr",
+    "site": "http://www.ulutek.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Bursa",
+    "unvan": "Bursa Teknopark",
+    "eposta": "-",
+    "site": "-",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Çanakkale",
+    "unvan": "Çanakkale Teknopark",
+    "eposta": "info@canakkaleteknopark.com",
+    "site": "http://canakkaleteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Çankırı",
+    "unvan": "Çankırı Teknokent",
+    "eposta": "-",
+    "site": "https://teknokent.karatekin.edu.tr",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Çorum",
+    "unvan": "Çorum Teknokent",
+    "eposta": "tgb_corum@corumteknokent.org",
+    "site": "http://www.corumteknokent.org/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Denizli",
+    "unvan": "Pamukkale Tekonokent",
+    "eposta": "info@pauteknokent.com.tr",
+    "site": "http://pauteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Diyarbakır",
+    "unvan": "Dicle Teknokent",
+    "eposta": "teknokent@dicle.edu.tr",
+    "site": "https://www.dicleteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Düzce",
+    "unvan": "Düzce Teknopark",
+    "eposta": "teknopark@duzce.edu.tr",
+    "site": "http://duzceteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Edirne",
+    "unvan": "Trakya Teknopark",
+    "eposta": "iletisim@trakyateknopark.com.tr",
+    "site": "http://trakyateknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Edirne",
+    "unvan": "Trakya Teknopark",
+    "eposta": "info@trakyateknopark.com.tr",
+    "site": "https://trakyateknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Elazığ",
+    "unvan": "Fırat Teknokent",
+    "eposta": "info@firatteknokent.com",
+    "site": "https://www.firatteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Erzurum",
+    "unvan": "Erzurum Ata Teknokent",
+    "eposta": "atauni@atateknokent.com.tr",
+    "site": "http://www.atateknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Eskisehir",
+    "unvan": "ATAP",
+    "eposta": "atap@atap.com.tr",
+    "site": "http://www.atap.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Gaziantep",
+    "unvan": "Gaziantep Teknopark",
+    "eposta": "info@gaziantepteknopark.com.tr",
+    "site": "https://www.gaziantepteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Gaziantep",
+    "unvan": "Gaziantep OSB Teknokent",
+    "eposta": "info@osbteknokent.com.tr",
+    "site": "https://osbteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Hatay",
+    "unvan": "Teknopark Hatay",
+    "eposta": "tgb_hatay@mku.edu.tr",
+    "site": "http://teknoparkhatay.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Isparta",
+    "unvan": "Göller Bölgesi Teknokent",
+    "eposta": "tgb_isparta@gbteknokent.com",
+    "site": "http://gbteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Boğaziçi Üniversitesi Teknopark",
+    "eposta": "tgb_istanbulbogazici@boun.edu.tr",
+    "site": "http://teknopark.boun.edu.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "İstanbul Entertech Teknokent",
+    "eposta": "nfo@entertech.com.tr",
+    "site": "https://www.entertech.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "İTÜ Arı Teknokent",
+    "eposta": "ariteknokent@ariteknokent.com.tr",
+    "site": "https://www.ariteknokent.com.tr/tr",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Teknopark İstanbul",
+    "eposta": "info@teknoparkistanbul.com.tr",
+    "site": "https://www.teknoparkistanbul.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "YTÜ Yıldız Teknopark",
+    "eposta": "info@yildizteknopark.com.tr",
+    "site": "http://www.yildizteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Dudullu OSB Boğaziçi Üniversitesi Teknopark (BÜDOTEK)",
+    "eposta": "budotek@budotek.com.tr",
+    "site": "https://budotek.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Zaim Teknopark",
+    "eposta": "tto@izu.edu.tr",
+    "site": "https://www.zaimteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Marmara Üniversitesi Teknopark",
+    "eposta": "info@marmaratek.com.tr",
+    "site": "http://www.marmaratek.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Dijitalpark Teknokent",
+    "eposta": "info@dijitalparkteknokent.com.tr",
+    "site": "https://dijitalparkteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Bahçesehir Üniversitesi Teknopark",
+    "eposta": "-",
+    "site": "-",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "Teknopol İstanbul",
+    "eposta": "info@teknopolistanbul.com",
+    "site": "https://www.teknopolistanbul.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İstanbul",
+    "unvan": "İstanbul Medeniyet Üniversitesi Teknopark",
+    "eposta": "-",
+    "site": "https://imuteknopark.medeniyet.edu.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İzmir",
+    "unvan": "Depark",
+    "eposta": "info@depark.com",
+    "site": "http://www.depark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İzmir",
+    "unvan": "Ege Teknopark",
+    "eposta": "teknoparkege@egeteknopark.com.tr",
+    "site": "https://egeteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İzmir",
+    "unvan": "İzmir Bilimpark",
+    "eposta": "info@izmirbilimpark.com.tr",
+    "site": "https://www.izmirbilimpark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İzmir",
+    "unvan": "Teknopark İzmir",
+    "eposta": "genelmudurluk@teknoparkizmir.com.tr",
+    "site": "https://teknoparkizmir.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "İzmir",
+    "unvan": "DEPARK Dokuz Eylül Üniversitesi Teknopark",
+    "eposta": "info@depark.com",
+    "site": "https://www.depark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kahramanmaraş",
+    "unvan": "Kahramanmaraş Teknokent",
+    "eposta": "bilgi@teknokentmaras.com",
+    "site": "http://kahramanmarasteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Karabük",
+    "unvan": "Karabük Teknokent",
+    "eposta": "iletisim@karabuktgb.com.tr",
+    "site": "https://www.karabuktgb.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Karaman",
+    "unvan": "Karaman Teknopark",
+    "eposta": "bilgi@karamanteknopark.com.tr",
+    "site": "https://www.karamanteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kastamonu",
+    "unvan": "Teknokent Kastamonu",
+    "eposta": "tgb_kastamonu@kastamonu.edu.tr",
+    "site": "https://teknokent.kastamonu.edu.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kayseri",
+    "unvan": "Erciyes Teknopark",
+    "eposta": "teknopark@erciyes.edu.tr",
+    "site": "http://www.erciyesteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kırıkkale",
+    "unvan": "Kırıkkale Teknopark",
+    "eposta": "info@kirikkaleteknopark.com",
+    "site": "https://www.kirikkaleteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kırklareli",
+    "unvan": "Kırklareli Teknokent",
+    "eposta": "teknokent@klu.edu.tr",
+    "site": "http://www.kirklareliteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kocaeli",
+    "unvan": "GOSB Teknopark",
+    "eposta": "info@gosbteknopark.com",
+    "site": "https://www.gosbteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kocaeli",
+    "unvan": "Kocaeli Teknopark",
+    "eposta": "info@kouteknopark.com",
+    "site": "http://kouteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kocaeli",
+    "unvan": "Bilişim Vadisi",
+    "eposta": "info@bilisimvadisi.co",
+    "site": "http://www.bilisimvadisi.co/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kocaeli",
+    "unvan": "Tübitak Marmara Tenokent",
+    "eposta": "info@marmarateknokent.com.tr",
+    "site": "http://marmarateknokent.tubitak.gov.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kocaeli",
+    "unvan": "Gebze Teknik Üniversitesi Teknopark",
+    "eposta": "teknopark@gtu.edu.tr",
+    "site": "http://gtuteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Konya",
+    "unvan": "Konya Teknokent",
+    "eposta": "info@konyateknokent.com.tr",
+    "site": "http://www.konyateknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Konya",
+    "unvan": "İnnoPark",
+    "eposta": "bilgi@innopark.com.tr",
+    "site": "https://innopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Kütayha",
+    "unvan": "Dumlupınar Teknokent",
+    "eposta": "info@dumlupinarteknokent.com",
+    "site": "https://dumlupinarteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Malatya",
+    "unvan": "Malatya Teknokent",
+    "eposta": "info@malatyateknokent.com.tr",
+    "site": "http://www.malatyateknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Manisa",
+    "unvan": "Manisa Teknokent",
+    "eposta": "halklailiskiler-teknokent@cbu.edu.tr",
+    "site": "http://teknokent.cbu.edu.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Mersin",
+    "unvan": "Mersin Teknopark",
+    "eposta": "info@technoscope.com.tr",
+    "site": "http://www.technoscope.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Mersin",
+    "unvan": "Mersin Agropark",
+    "eposta": "info@mersinagropark.com",
+    "site": "http://www.mersinagropark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Muğla",
+    "unvan": "Muğla Teknopark",
+    "eposta": "bilgi@muglateknopark.com.tr",
+    "site": "http://www.muglateknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Nevsehir",
+    "unvan": "Kapadokya Teknopark",
+    "eposta": "info@kapadokyateknopark.com.tr",
+    "site": "https://kapadokyateknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Niğde",
+    "unvan": "Niğde Teknopark",
+    "eposta": "info@nigdeteknopark.com",
+    "site": "https://www.nigdeteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Sakarya",
+    "unvan": "Sakarya Teknokent",
+    "eposta": "iletisim@sakaryateknokent.com",
+    "site": "http://www.sakaryateknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Samsun",
+    "unvan": "Samsun Teknopark",
+    "eposta": "bilgi@samsunteknopark.com",
+    "site": "http://www.samsunteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Sivas",
+    "unvan": "Cumhuriyet Teknokent",
+    "eposta": "teknokent@cumhuriyetteknokent.com",
+    "site": "http://www.cumhuriyetteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Şanlıurfa",
+    "unvan": "Şanlıurfa Teknokent",
+    "eposta": "tgb_urfa@teknokent.harran.edu.tr",
+    "site": "http://www.sanliurfateknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Tekirdağ",
+    "unvan": "NKÜ Teknopark",
+    "eposta": "bilgi@nkuteknopark.com",
+    "site": "https://www.nkuteknopark.com/tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Tokat",
+    "unvan": "Tokat Teknopark",
+    "eposta": "tgb_tokat@tokatteknopark.com",
+    "site": "http://www.tokatteknopark.com/tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Trabzon",
+    "unvan": "Trabzon Teknokent",
+    "eposta": "info@trabzonteknokent.com.tr",
+    "site": "https://www.trabzonteknokent.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Uşak",
+    "unvan": "Zafer Teknopark",
+    "eposta": "tgb@zaferteknopark.com.tr",
+    "site": "https://zaferteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Van",
+    "unvan": "Van Teknookent",
+    "eposta": "info@vanteknokent.com",
+    "site": "http://www.vanteknokent.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Yalova",
+    "unvan": "Yalova Teknopark",
+    "eposta": "info@yalovateknopark.com",
+    "site": "https://www.yalovateknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Yozgat",
+    "unvan": "Bozok Teknopark",
+    "eposta": "info@bozokteknopark.com.tr",
+    "site": "http://www.bozokteknopark.com.tr/",
+    "turu": "Teknopark/Teknokent"
+  },
+  {
+    "sehir": "Zonguldak",
+    "unvan": "Zonguldak Teknopark",
+    "eposta": "teknopark@beun.edu.tr",
+    "site": "https://www.zonguldakteknopark.com/",
+    "turu": "Teknopark/Teknokent"
+  }
+]
