@@ -1,0 +1,17 @@
+.menuLine {
+    position: relative;
+}
+.menuLine::after {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 2px;
+    width: 0;
+    left: 0;
+    background-color: #4f5155;
+    transition: width 0.3s ease-in-out;
+    border: 0;
+}
+.menuLine:hover::after {
+    width: 100%;
+}

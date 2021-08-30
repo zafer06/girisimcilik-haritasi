@@ -1,0 +1,37 @@
+[
+  {
+    "sehir": "Adana",
+    "kurum": "Çukurova Teknokent",
+    "merkez": "Adana Girişimcilik Merkezi",
+    "site": "https://girisimadana.com/",
+    "turu": "Girişimcilik ve Kuluçka Merkezleri"
+  },
+  {
+    "sehir": "Adana",
+    "kurum": "Çukurova Teknokent",
+    "merkez": "Çukurova Teknokent Kuluçka Merkezi",
+    "site": "https://cukurovateknokent.com/",
+    "turu": "Girişimcilik ve Kuluçka Merkezleri"
+  },
+  {
+      "sehir": "Afyon",
+      "kurum": "Zafer Teknopark (Afyon Kocatepe Üni. Kampüs Teknopark)",
+      "merkez": "Zafer Teknopark Kuluçka Merkezi",
+      "site": "https://zaferteknopark.com.tr/",
+      "turu": "Girişimcilik ve Kuluçka Merkezleri"
+  },
+  {
+    "sehir": "Ankara",
+    "kurum": "Teknopark Ankara",
+    "merkez": "Nar Kuluçka Merkezi",
+    "site": "http://www.teknoparkankara.com.tr/",
+    "turu": "Girişimcilik ve Kuluçka Merkezleri"
+  },
+  {
+    "sehir": "Ankara",
+    "kurum": "Bilkent Cyberpark",
+    "merkez": "Cyberpark Kuluçka Merkezi",
+    "site": "https://www.cyberpark.com.tr/",
+    "turu": "Girişimcilik ve Kuluçka Merkezleri"
+  }
+]

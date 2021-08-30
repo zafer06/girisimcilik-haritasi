@@ -31,7 +31,6 @@ function svgturkiyeharitasi() {
         //console.log("Info: " + info.innerText);
         //event.target.style.fill = 'yellow';
 
-
         let modalLabel = document.getElementById('modalCityLabel');
         modalLabel.innerText = info.innerText;
 
